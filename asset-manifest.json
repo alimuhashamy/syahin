@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/syahin/static/css/main.d81e6786.css",
+    "main.js": "/syahin/static/js/main.f7d2c620.js",
+    "static/js/787.115bd73c.chunk.js": "/syahin/static/js/787.115bd73c.chunk.js",
+    "static/media/menuBanner.jpg": "/syahin/static/media/menuBanner.8a80ca9e1e72007d2c22.jpg",
+    "static/media/menubackground2.jpg": "/syahin/static/media/menubackground2.d8c4f6afa555886af4f6.jpg",
+    "static/media/menuBanner2.jpg": "/syahin/static/media/menuBanner2.4ae7dde816312629670b.jpg",
+    "static/media/corporatepack.png": "/syahin/static/media/corporatepack.e823d10319d4e320a43b.png",
+    "static/media/cookies.png": "/syahin/static/media/cookies.459d9aee92b7092b50ce.png",
+    "static/media/cakes2.png": "/syahin/static/media/cakes2.7f221c053930f500aceb.png",
+    "static/media/cakes3.png": "/syahin/static/media/cakes3.6b77e6457e05f6a79b0c.png",
+    "static/media/cakes.png": "/syahin/static/media/cakes.f3ce7d62bb49746cceda.png",
+    "static/media/giftpack.png": "/syahin/static/media/giftpack.11c8805ee7dd0cd0cb56.png",
+    "static/media/skhomebanner2.jpg": "/syahin/static/media/skhomebanner2.1987bab5db64c2386c4f.jpg",
+    "static/media/Weblogo.png": "/syahin/static/media/Weblogo.bcb5d634b347252c5f9c.png",
+    "index.html": "/syahin/index.html",
+    "main.d81e6786.css.map": "/syahin/static/css/main.d81e6786.css.map",
+    "main.f7d2c620.js.map": "/syahin/static/js/main.f7d2c620.js.map",
+    "787.115bd73c.chunk.js.map": "/syahin/static/js/787.115bd73c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d81e6786.css",
+    "static/js/main.f7d2c620.js"
+  ]
+}
