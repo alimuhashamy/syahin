@@ -1,0 +1,35 @@
+import React from 'react';
+import contactBanner from "../assets/menuBanner.jpg";
+import "../Styles/Contact.css";
+
+
+
+
+function Contact() {
+    return (
+        <div className="contact" >
+            <div className="leftSide" style={{ backgroundImage: `url(${contactBanner})` }} >
+
+
+            </div>
+
+            <div className="rightSide">
+                <h1>Contact US</h1>
+                <form id="contact-form" method="POST">
+                    <label htmlfor="name">Full Name</label>
+                    <input id="name" placeholder="Enter Full Name" type="text" />
+                    <label htmlfor="email">Email Address</label>
+                    <input name="email" placeholder="Enter Email address" type="email" />
+                    <label htmlfor="mesage">Message</label>
+                    <textarea rows="6" placeholder="Enter Message" name="message" required>
+                    </textarea>
+                    <button type="submit">Send Message</button>
+
+
+                </form>
+            </div>
+
+         </div>
+    );
+}
+export default Contact;
